@@ -28,10 +28,10 @@
   
 We're a team dedicated to restoring [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) original online functionality for gaming history preservation and education. Donate your PlayStation®Home cache data [here](https://nagato.gitbook.io/playstation-home-cache-extraction-guide1/)!
   
-# Wat PlayStation Home?
+# Wat is PlayStation Home?
   ![NPIA00005_screenshot_2022_05_23_12_18_22](https://user-images.githubusercontent.com/67494727/169914462-a9a0afb6-9f39-4f5e-be54-4e5967985650.png)
   
-PlayStation®Home ist eine soziale Gaming Community für 3D-Spiele, in der sich Benutzer von PS3™-Systemen treffen und mit anderen Benutzern von PS3™-Systemen chatten, planen und gemeinsam Spiele spielen können. Du kannst deinen eigenen Avatar erstellen, dein persönliches Apartment einrichten, Minispiele spielen, einkaufen gehen, Videos ansehen, an besonderen Events teilnehmen und vieles mehr - all das ist Teil von PlayStation®Home. 
+PlayStation®Home is een 3D-community voor social gaming waar PS3™-gebruikers kunnen samenkomen, chatten, afspreken en gamen met andere PS3™-gebruikers. U kunt uw eigen avatar creëren, uw persoonlijke appartement inrichten, minigames spelen, winkelen, video's bekijken, deelnemen aan speciale evenementen en nog veel meer - het maakt allemaal deel uit van PlayStation®Home.
 
 # Meertalige Ondersteuning voor deze write-up| WIP 🚧:
   
@@ -47,7 +47,7 @@ PlayStation®Home ist eine soziale Gaming Community für 3D-Spiele, in der sich 
  ℹ️ | Gebruikers die deze README pagina willen vertalen om onze altijd ontwikkelende gemeenschap te steunen, kunnen contact met me opnemen via [Twitter](https://twitter.com/NagatoRevenge) voor meer informatie! 
 :---: | :---  
 
-# Brief Synopsis:
+# Een Korte Inleiding:
 
 Welcome to the official guide on how users can re-experience [PlayStation®Home](https://en.wikipedia.org/wiki/PlayStation_Home) online on the original PS3 &amp; [RPCS3](https://rpcs3.net/). To stay up to date on the project please follow our Discussions page on our [Github](https://github.com/DestinationHome/Destination-Home-Online/discussions), as our Community Manager [**Figment**](https://github.com/PSHFigment) will post the latest news in regards to new Home updates. For all things related to PlayStation®Home, we have created a comprehensive composition [Wiki system](https://github.com/DestinationHome/Destination-Home-Online/wiki) for this repo, to document how users can access our services.
   
@@ -133,10 +133,10 @@ Om dit README.md-bestand overzichtelijk en eenvoudig te houden, heb ik besloten 
 | De nieuwste PlayStation Home Online client van onze [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). | De nieuwste aangepaste RPCS3 PlayStation Home Client van onze [release page](https://github.com/DestinationHome/Destination-Home-Online/releases). |
 | Een actieve netwerkverbinding. | Een actieve netwerkverbinding. |
 
-# Werkende diensten & functie
+# Werkende diensten & functies
 
-- [x] Officiële firmware ondersteuning op de [nieuwste](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `As of 2022/5/22, v4.89 is the latest firmware for PS3.`
-- [x]  Wij gebruiken [1.86 version of PlayStation®Home](https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) voor onze production client.
+- [x] Officiële firmware ondersteuning op de [nieuwste](https://www.playstation.com/en-us/support/hardware/ps3/system-software/) PS3 firmware. `Vanaf 22/05/2022 is v4.89 de nieuwste firmware voor PS3™.`
+- [x]  Wij gebruiken versie [1.86 version of PlayStation®Home] (https://www.ign.com/articles/2014/03/11/playstation-home-getting-trophies-in-new-update) voor onze production client.
 - [x] Trofee-ondersteuning zal beschikbaar zijn op PS3. RPCS3 zal zijn equivalente dienst gebruiken voor het afhandelen van trofeeën.
 - [x] Beloningen. `Dit omvat meubels, kleding, appartementen, enzovoort.`
 - [x] Cross-region ondersteuning `Gebruikers hebben toegang tot alle regionale scènes, ongeacht het land van herkomst dat aan hun PSN-account is gekoppeld. Een speler die uit Japan komt, heeft bijvoorbeeld toegang tot Noord-Amerikaanse scènes en vice versa.`
@@ -150,16 +150,16 @@ https://user-images.githubusercontent.com/67494727/168451055-be2e97d4-d0c6-4596-
 - [ ] Commerce Points "WInkels" voor RPCS3.
 - [ ] [Inspect Functie voor Avatars](https://blog.playstation.com/2013/09/18/new-to-playstation-home-inspect-items/).
 - [ ] [Quest Manager](https://www.engadget.com/2011-08-23-playstation-home-relaunches-this-fall-with-a-questing-system-th.htm).
-- [ ] PlayStation™Network Matching2 Serviceszullen niet beschikbaar zijn voor RPCS3.
+- [ ] PlayStation™Network Matching2 Services zullen niet beschikbaar zijn voor RPCS3.
 - [ ] [PlayStation®Home Challenge System](https://blog.playstation.com/archive/2013/10/29/playstation-home-update-do-you-accept-the-challenge).
 - [ ] [Teleporter-systeem for kernscènes](https://blog.playstation.com/2011/10/31/playstation-home-redesign-video-tour-new-games-genre-based-districts-and-more/) e.g., **The Hub, First Floor Mall, Pier Park**.
- - [ ] Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0). 
+ - [ ] [Wardrobe Wars](https://www.youtube.com/watch?v=-rJ5kaqFyQ0). 
 
 # 🕹️ PlayStation®Home Minigame Compatibility List:
 
 ![NPIA00005_screenshot_2022_04_30_16_22_56](https://user-images.githubusercontent.com/67494727/166170289-8182e235-31be-4794-9fbb-303e93b5e579.png)
 
-Wat minigames betreft: helaas zullen voor bepaalde scènes niet alle minigames werken, omdat het Destination Home-team wat extra aandacht/tijd nodig heeft om dergelijke services in een stabiele omgeving aan de praat te krijgen. Voor onze beta-lancering heb ik een eenvoudige [compatibiliteit lijst](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv)) gemaakt die in alfabetische volgorde (A-Z) aangeeft welke minigames volledig werken en welke niet.  
+Wat minigames betreft: helaas zullen voor bepaalde scènes niet alle minigames werken, omdat het Destination Home-team wat extra aandacht/tijd nodig heeft om dergelijke services in een stabiele omgeving aan de praat te krijgen. Voor onze beta-lancering heb ik een eenvoudige [compatibiliteit lijst](https://github.com/DestinationHome/Destination-Home-Online/blob/main/.github/WIKI/minigame_compatibility_beta.csv) gemaakt die in alfabetische volgorde (A-Z) aangeeft welke minigames volledig werken en welke niet.  
   
  
 # 🕷️ Kom je kritieke bugs tegen in PlayStation Home? Hier is hoe je ze kunt melden aan het Destination Home Team!
@@ -449,7 +449,7 @@ Heb je vragen over deze release? Voel je vrij om contact met mij op te nemen via
 </table>
 
 - Dank aan het [RPCS3](https://github.com/RPCS3/rpcs3) ontwikkelingsteam voor het helpen oplossen van kritieke bugs voor Home online.
-- Dank aan het [PS3Xploit Team](https://github.com/PS3Xploit) voor het maken van de fraaie HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) op PS3!
+- Dank aan het [PS3Xploit Team](https://github.com/PS3Xploit) voor het maken van de fraaie [HEN exploit](https://github.com/PS3Xploit/PS3HEN) (PS3 Homebrew ENabler) op PS3!
 - Bedankt Sony/PlayStation voor het creëren van deze adembenemende sociale wereld!
 
 # Wettelijke informatie:
